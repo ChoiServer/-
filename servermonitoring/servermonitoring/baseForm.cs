@@ -54,7 +54,7 @@ namespace servermonitoring
 
         protected void SetPosition(XtraUserControl sc, int cnt, string locationcd)
         {
-            
+            // git commit 테스트   
             try
             {
                 Panel pan;
